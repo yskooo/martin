@@ -348,8 +348,8 @@ main {
     text-align: center;
 }
 
-.social-link {
-    justify-items: space-between;
+.social-links {
+    gap: 5rem;
 }
 
 .footer__link {
