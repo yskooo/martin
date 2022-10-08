@@ -350,6 +350,18 @@ img {
     border: 1px solid;
 }
 
+.tech-desc {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    margin: 1rem 0;
+}
+
+.tech-desc>p {
+    width: 500px;
+}
+
 .contact {
     flex-direction: column;
 }
